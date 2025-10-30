@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jackpronin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]([mailto:pronin.jack@gmail.com]) [![Мой Telegram](https://raw.githubusercontent.com/HandyGram/.github/main/profile/poster.png)](https://www.vip-grinders.com/wp-content/uploads/2018/04/telegram-icon.png)(https://t.me/jackpronin)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jackpronin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]([mailto:pronin.jack@gmail.com]) [![Мой Telegram]](https://t.me/jackpronin)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
